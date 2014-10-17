@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fqs:home|Door43 (fqs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fqs|d43-fqs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fqs/archive/master.zip|d43-fqs.zip]]
+
+**Recent Changes**
+{{changes>ns = fqs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fqs|Ethnologue data]]
+
